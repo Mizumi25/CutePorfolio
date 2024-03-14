@@ -10,7 +10,7 @@ const data = {
     title1: "this is title1",
     para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium exercitationem blanditiis magnam sint modi quaeratrepudiandae atque voluptate cum neque quae beatae pariatur tenetur dolore, dolores corporis impedit sed labore!",
     btn: "contact",
-    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fstay-in-the-moment-take-a-picture%2F&psig=AOvVaw3huLFjqN3eBogNuxZbvd8S&ust=1710488220129000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODPn6if84QDFQAAAAAdAAAAABAD",
+    img: "../images/prof.jpg",
     proj: "Projects",
     img1: "../images/prof.jpg",
     img2: "../images/prof.jpg",
