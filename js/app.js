@@ -10,7 +10,7 @@ const data = {
     title1: "this is title1",
     para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium exercitationem blanditiis magnam sint modi quaeratrepudiandae atque voluptate cum neque quae beatae pariatur tenetur dolore, dolores corporis impedit sed labore!",
     btn: "contact",
-    img: "../images/prof.jpg",
+    img: "./images/prof.jpg",
     proj: "Projects",
     img1: "../images/prof.jpg",
     img2: "../images/prof.jpg",
